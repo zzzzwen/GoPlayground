@@ -1,0 +1,21 @@
+# Generated class files
+*.class
+
+# Default data file
+addressbook.txt
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Idea files
+.idea/
+*.iml
+out/
+
+# Package
+pkg/
+src/github.com/
+src/golang.org/
+src/gopkg.in/
